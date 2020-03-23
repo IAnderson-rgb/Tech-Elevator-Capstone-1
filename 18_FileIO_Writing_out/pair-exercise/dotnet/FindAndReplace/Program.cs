@@ -46,7 +46,7 @@ namespace FindAndReplace
             catch(Exception e)
             {
                Console.WriteLine("Something went wrong");
-                Console.WriteLine(e.Message);
+               Console.WriteLine(e.Message);
 
             }
         }
